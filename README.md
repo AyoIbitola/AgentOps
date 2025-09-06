@@ -1,4 +1,4 @@
-# AI Incident Response Agent 🚀🤖
+# AI Incident Response Agent 
 
 An intelligent, autonomous incident response system that uses AI to analyze alerts, make decisions, and take appropriate actions automatically. Built with FastAPI, AWS services, and Google's Gemini AI.
 
@@ -11,12 +11,12 @@ The system follows a serverless architecture pattern:
 
 ## ✨ Features
 
-- **🤖 AI-Powered Decision Making**: Uses Google Gemini AI to analyze incidents and determine appropriate responses
-- **📊 Timeline Tracking**: Complete audit trail of all incident events stored in DynamoDB
-- **🔄 Automated Actions**: Can automatically restart ECS services, notify teams, or escalate issues
-- **📱 Multi-Channel Notifications**: Integrates with Slack, email (SES), and Jira
-- **🔐 Secure Slack Integration**: Proper signature verification for Slack webhook security
-- **⚡ Serverless**: Runs on AWS Lambda with API Gateway for scalability
+- ** AI-Powered Decision Making**: Uses Google Gemini AI to analyze incidents and determine appropriate responses
+- ** Timeline Tracking**: Complete audit trail of all incident events stored in DynamoDB
+- ** Automated Actions**: Can automatically restart ECS services, notify teams, or escalate issues
+- ** Multi-Channel Notifications**: Integrates with Slack, email (SES), and Jira
+- ** Secure Slack Integration**: Proper signature verification for Slack webhook security
+- ** Serverless**: Runs on AWS Lambda with API Gateway for scalability
 
 ## 🛠️ Technology Stack
 
@@ -275,9 +275,7 @@ curl -X POST https://your-api-gateway-url/alert \
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
